@@ -1,1 +1,2 @@
-# LLM_from_scratch
+# LLMs-from-scratch
+
